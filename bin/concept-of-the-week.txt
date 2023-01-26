@@ -1,1 +1,1 @@
-content/general/concepts/boolean/boolean.md
+content/git/concepts/pull/pull.md
